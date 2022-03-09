@@ -1,7 +1,14 @@
-public class demo1
+public class demo1{
 @Test
 
 public void demo()
 {
 system.out.println("as");
+}
+@Test
+
+public void demoa()
+{
+system.out.println("asi");
+}
 }
